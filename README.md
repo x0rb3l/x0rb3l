@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @x0rb3l
-- 👀 I’m interested in breaking hackers
-- 🌱 I’m currently learning advanced windows exploitation
-- 💞️ I’m looking to collaborate on reverse engineering projects
 - 📫 How to reach me: https://www.linkedin.com/in/robelcampbell/
 
 <!---
